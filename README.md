@@ -1,2 +1,2 @@
 # portfolio
-Creating a portfolio clone using HTML and CSS
+Creating a portfolio  using HTML and CSS
